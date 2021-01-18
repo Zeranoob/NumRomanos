@@ -3,10 +3,6 @@ package clase2;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * @author juansalinasaedo
- */
-
 public class NumRomanoTest {
 
     /*
